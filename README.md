@@ -4,7 +4,7 @@ These are the files for my final project. I have included...
 
 - ipynb file of my code (project.ipynb)
 - ppt file of my presentation with voiceover (Presentation_YL.ppt)
-- pdf of my report (372 Report.pdf)
+- pdf of my report (CISC372 Report.pdf)
 - csv file of the dataset (test99_to_2019_dataset.csv)
 
 
